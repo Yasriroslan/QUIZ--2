@@ -10,6 +10,7 @@ public class question2 {
 		
 		Scanner sc = new Scanner (System.in);
 		
+		System.out.println("MY ARRAY STAR");
 		System.out.print("\nENTER TEH NUMBER: ");
 		int numitems = sc.nextInt();
 		
